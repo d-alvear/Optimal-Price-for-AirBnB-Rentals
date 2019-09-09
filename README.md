@@ -1,1 +1,1 @@
-# Optimal-Price-for-AirBnB-Rentals
+# Optimal Price for AirBnB Rentals
